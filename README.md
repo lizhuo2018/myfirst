@@ -1,3 +1,3 @@
-# myfirst
-my first project just for test
+# mysecond
+my second project just for test
 where are we?
